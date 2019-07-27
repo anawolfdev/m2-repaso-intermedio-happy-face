@@ -8,7 +8,7 @@ Nos han encargado una pequeña aplicación web donde podremos mostrar si tenemos
 
 ![HappyFace](images/HappyFace.png)
 
-Funcionamiento Por defecto vamos a intentar ir de buenas y se mostrará a la criatura sonriente sobre un fondo de un amarillo correcto #ffcc00.
+Por defecto vamos a intentar ir de buenas y se mostrará a la criatura sonriente sobre un fondo de un amarillo correcto #ffcc00.
 Con el select podremos cambiar nuestro estado de ánimo
 El boton Update hará varias cosas:
 Recogerá el nuevo estado del select y lo pintará en lugar del actual
