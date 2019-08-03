@@ -2,7 +2,7 @@
 
 Ejercicio de repaso intermedio del Módulo 2 de JavaScript - Adalab -
 
-# Sonríe… o no 
+## Sonríe… o no 
 
 ➕ Nos han encargado una pequeña aplicación web donde podremos mostrar si tenemos un buen día o si es mejor no pasarse hoy por nuestra mesa. Dispondremos de toda la ventana del navegador para pintar una carilla con un fondo. En la parte baja de la pantalla tendremos un select donde podremos elegir entre dos estados, sonriente o triste, y un botón de actualizar.
 
