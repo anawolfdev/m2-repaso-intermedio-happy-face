@@ -6,7 +6,7 @@ Ejercicio de repaso intermedio del Módulo 2 de JavaScript - Adalab -
 
 ➕ Nos han encargado una pequeña aplicación web donde podremos mostrar si tenemos un buen día o si es mejor no pasarse hoy por nuestra mesa. Dispondremos de toda la ventana del navegador para pintar una carilla con un fondo. En la parte baja de la pantalla tendremos un select donde podremos elegir entre dos estados, sonriente o triste, y un botón de actualizar.
 
-![HappyFace](images/HappyFace.png)
+![HappyFace](images/HappyFace.png=300px)
 
 ✔️ Por defecto vamos a intentar ir de buenas y se mostrará a la criatura sonriente sobre un fondo de un amarillo correcto #ffcc00.
 
